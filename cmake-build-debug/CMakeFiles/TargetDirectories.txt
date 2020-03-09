@@ -1,0 +1,3 @@
+/Users/jmartz/networking_fall_2019_martz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jmartz/networking_fall_2019_martz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jmartz/networking_fall_2019_martz/cmake-build-debug/CMakeFiles/networking_fall_2019_martz.dir
